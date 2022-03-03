@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl&lt;Block:&nbsp;BlockT, C&gt; ConstructRuntimeApi&lt;Block, C&gt; for <a class=\"struct\" href=\"kerria_runtime/struct.RuntimeApi.html\" title=\"struct kerria_runtime::RuntimeApi\">RuntimeApi</a> <span class=\"where fmt-newline\">where<br>&nbsp;&nbsp;&nbsp;&nbsp;C: CallApiAt&lt;Block&gt; + 'static,&nbsp;</span>","synthetic":false,"types":["kerria_runtime::RuntimeApi"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl OpaqueKeys for <a class=\"struct\" href=\"kerria_runtime/opaque/struct.SessionKeys.html\" title=\"struct kerria_runtime::opaque::SessionKeys\">SessionKeys</a>","synthetic":false,"types":["kerria_runtime::opaque::SessionKeys"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

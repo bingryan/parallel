@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl <a class=\"trait\" href=\"kerria_runtime/trait.InstanceFilter.html\" title=\"trait kerria_runtime::InstanceFilter\">InstanceFilter</a>&lt;<a class=\"enum\" href=\"kerria_runtime/enum.Call.html\" title=\"enum kerria_runtime::Call\">Call</a>&gt; for <a class=\"enum\" href=\"kerria_runtime/enum.ProxyType.html\" title=\"enum kerria_runtime::ProxyType\">ProxyType</a>","synthetic":false,"types":["kerria_runtime::ProxyType"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

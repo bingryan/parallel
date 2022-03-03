@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl Config for <a class=\"struct\" href=\"kerria_runtime/struct.XcmConfig.html\" title=\"struct kerria_runtime::XcmConfig\">XcmConfig</a>","synthetic":false,"types":["kerria_runtime::XcmConfig"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

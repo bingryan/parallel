@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl OriginTrait for <a class=\"struct\" href=\"kerria_runtime/struct.Origin.html\" title=\"struct kerria_runtime::Origin\">Origin</a>","synthetic":false,"types":["kerria_runtime::Origin"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

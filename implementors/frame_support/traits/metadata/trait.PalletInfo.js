@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl PalletInfo for <a class=\"struct\" href=\"kerria_runtime/struct.PalletInfo.html\" title=\"struct kerria_runtime::PalletInfo\">PalletInfo</a>","synthetic":false,"types":["kerria_runtime::PalletInfo"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

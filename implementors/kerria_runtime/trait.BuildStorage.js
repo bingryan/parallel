@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl <a class=\"trait\" href=\"kerria_runtime/trait.BuildStorage.html\" title=\"trait kerria_runtime::BuildStorage\">BuildStorage</a> for <a class=\"struct\" href=\"kerria_runtime/struct.GenesisConfig.html\" title=\"struct kerria_runtime::GenesisConfig\">GenesisConfig</a>","synthetic":false,"types":["kerria_runtime::GenesisConfig"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

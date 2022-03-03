@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl ChangeMembers&lt;&lt;&lt;MultiSignature as Verify&gt;::Signer as IdentifyAccount&gt;::AccountId&gt; for <a class=\"struct\" href=\"kerria_runtime/struct.ChangeBridgeMembers.html\" title=\"struct kerria_runtime::ChangeBridgeMembers\">ChangeBridgeMembers</a>","synthetic":false,"types":["kerria_runtime::ChangeBridgeMembers"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

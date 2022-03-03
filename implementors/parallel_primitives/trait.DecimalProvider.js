@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl <a class=\"trait\" href=\"parallel_primitives/trait.DecimalProvider.html\" title=\"trait parallel_primitives::DecimalProvider\">DecimalProvider</a>&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.u32.html\">u32</a>&gt; for <a class=\"struct\" href=\"kerria_runtime/struct.Decimal.html\" title=\"struct kerria_runtime::Decimal\">Decimal</a>","synthetic":false,"types":["kerria_runtime::Decimal"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

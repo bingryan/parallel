@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl TakeRevenue for <a class=\"struct\" href=\"kerria_runtime/struct.ToTreasury.html\" title=\"struct kerria_runtime::ToTreasury\">ToTreasury</a>","synthetic":false,"types":["kerria_runtime::ToTreasury"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

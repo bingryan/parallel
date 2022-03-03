@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl WeightToFeePolynomial for <a class=\"struct\" href=\"kerria_runtime/constants/fee/struct.WeightToFee.html\" title=\"struct kerria_runtime::constants::fee::WeightToFee\">WeightToFee</a>","synthetic":false,"types":["kerria_runtime::constants::fee::WeightToFee"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["kerria_runtime"] = [{"text":"impl DataProvider&lt;<a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.u32.html\">u32</a>, TimestampedValue&lt;FixedU128, <a class=\"primitive\" href=\"https://doc.rust-lang.org/nightly/std/primitive.u64.html\">u64</a>&gt;&gt; for <a class=\"struct\" href=\"kerria_runtime/struct.AggregatedDataProvider.html\" title=\"struct kerria_runtime::AggregatedDataProvider\">AggregatedDataProvider</a>","synthetic":false,"types":["kerria_runtime::AggregatedDataProvider"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

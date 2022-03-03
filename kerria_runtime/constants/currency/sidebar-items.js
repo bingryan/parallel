@@ -1,0 +1,1 @@
+initSidebarItems({"constant":[["CENTS",""],["DOLLARS",""],["EXISTENTIAL_DEPOSIT",""],["MILLICENTS",""]],"fn":[["deposit",""]]});
